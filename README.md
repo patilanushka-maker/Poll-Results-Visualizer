@@ -1,6 +1,6 @@
 # Poll Results Visualizer
 
-[![Tests](https://github.com/Anushka/Poll-Results-Visualizer/actions/workflows/tests.yml/badge.svg)](https://github.com/Anushka/Poll-Results-Visualizer/actions/workflows/tests.yml)
+[![Tests](https://github.com/patilanushka-maker/Poll-Results-Visualizer/actions/workflows/tests.yml/badge.svg)](https://github.com/patilanushka-maker/Poll-Results-Visualizer/actions/workflows/tests.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -287,7 +287,7 @@ Poll-Results-Visualizer/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anushka/Poll-Results-Visualizer.git
+   git clone https://github.com/patilanushka-maker/Poll-Results-Visualizer.git
    cd Poll-Results-Visualizer
    ```
 
